@@ -1,4 +1,5 @@
 # GameEngine
-A platformer gameEngine featuring advanced collision
+
+A platformer game Engine featuring advanced collision types.
 
 http://htmlpreview.github.io/?https://github.com/prolightHub/GameEngine/blob/master/gameEngine/index.html
